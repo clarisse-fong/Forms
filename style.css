@@ -1,0 +1,8 @@
+form div input {
+    width: 100%;
+}
+
+form div textarea {
+    width: 100%;
+    height: 150px
+}
